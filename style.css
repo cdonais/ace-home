@@ -38,7 +38,9 @@ form {
     border-radius: 10px;
 }
 button {
+    background-color: #ffc400;
     margin: 15px;
+    padding: 5px;
     font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     font-size: large;
