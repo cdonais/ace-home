@@ -4,6 +4,9 @@
 li {
     font-family: 'Prata', serif;
 }
+a:hover {
+    color: #ffc400;
+}
 #logo {
     font-family: 'Cinzel Decorative', cursive;
 }
@@ -23,8 +26,24 @@ div {
 p {
     font-family: 'Prata', serif;
     font-size: larger;
+    line-height: 30px;
     
 }
 img {
     border: #ffc400 2px solid;
+}
+form {
+    border: #ffc400 2px solid;
+    margin: 50px;
+    border-radius: 10px;
+}
+button {
+    margin: 15px;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+    font-size: large;
+
+}
+::placeholder {
+    font-family: 'Prata', serif;
 }
