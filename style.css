@@ -49,3 +49,12 @@ button {
 ::placeholder {
     font-family: 'Prata', serif;
 }
+
+#key {
+    border-radius: 20px;
+}
+
+#fly {
+    border-radius: 20px;
+    margin-top: 55px;
+}
